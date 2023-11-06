@@ -1,0 +1,56 @@
+{
+    "bottone_1": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    },
+    "bottone_2": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    },
+    "bottone_3": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    },
+    "bottone_4": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    },
+    "bottone_5": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    },
+    "bottone_6": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    }
+}

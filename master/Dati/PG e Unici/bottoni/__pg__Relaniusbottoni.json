@@ -1,0 +1,56 @@
+{
+    "bottone_1": {
+        "nome": "Lancio Peso",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "Lancio Peso",
+        "contenuto_popup": "5 en. bonus atk = mod agilita' x 2. se colpisce, sbilancia gratis. -2 tier danno. Entro 9 metri. danno contundente    mod velocita x2 kusarigama. Puoi scegliere se MOD Velocita o MOD Agilita\nSBILANCIA  || -5 pa al nemico.\n2 pa per riprendere ",
+        "link": ""
+    },
+    "bottone_2": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    },
+    "bottone_3": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    },
+    "bottone_4": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    },
+    "bottone_5": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    },
+    "bottone_6": {
+        "nome": "",
+        "nome_effetto": "",
+        "descrizione_effetto": "",
+        "codice_effetto": "",
+        "titolo_popup": "",
+        "contenuto_popup": "",
+        "link": ""
+    }
+}
