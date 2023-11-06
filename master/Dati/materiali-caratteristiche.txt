@@ -1,0 +1,37 @@
+{"armi":
+	{"leggero":
+		{"1":"legno",
+		"2":"chitina",
+		"3":"elfico",
+		"4":"ossa",
+		"5":"dreugh",
+		"6":"vetro",
+		"7":"adamantio"},
+	"pesante":
+		{"1":"ferro",
+		"2":"acciaio",
+		"3":"nordico",
+		"4":"orchesco",
+		"5":"dwemer",
+		"6":"ebano",
+		"7":"daedrico"}
+	},
+"armature":
+	{"leggero":
+		{"1":"pelle",
+		"2":"chitina",
+		"3":"elfico",
+		"4":"ossa",
+		"5":"dreugh",
+		"6":"vetro",
+		"7":"adamantio"},
+	"pesante":
+		{"1":"ferro",
+		"2":"acciaio",
+		"3":"nordico",
+		"4":"orchesco",
+		"5":"dwemer",
+		"6":"ebano",
+		"7":"daedrico"}
+	}
+}

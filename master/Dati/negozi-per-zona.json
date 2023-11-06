@@ -1,0 +1,1092 @@
+{
+  "Città Imperiale - Mercato": [
+    {
+      "tipo": "Fabbro",
+      "nome": "Lame di Belrand",
+      "livello": 8,
+      "proprietario": "Belrand Glorhart (Nord)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Acqua Brillante",
+      "livello": 8,
+      "proprietario": "Neririen Elethir (Altmer)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Tessuti di Serenity",
+      "livello": 8,
+      "proprietario": "Serenity Luauber (Bretone)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Tutto da Uthgerd",
+      "livello": 4,
+      "proprietario": "Uthgerd il Potente (Nord)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Il riposo del Viaggiatore",
+      "livello": 6,
+      "proprietario": "Firgoth Verderadice (Bosmer)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Frecce e Archi",
+      "livello": 5,
+      "proprietario": "Jidatt'r (Khajiit)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Le Brutte Maniere",
+      "livello": 8,
+      "proprietario": "Aurelius Nero (Imperiale)"
+    },
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "Il Vascello di Sabbia",
+      "livello": 6,
+      "proprietario": "R'aiq il Mezzocielo (Khajiit)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Il metallo Rosso",
+      "livello": 8,
+      "proprietario": "Vori Rugginoso (Nord)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Creazioni di Ciretose",
+      "livello": 7,
+      "proprietario": "Ciretose Piagaumida (Argoniano)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Angolo Magico",
+      "livello": 8,
+      "proprietario": "Hanriel Lacrimarapida (Alto Elfo)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Il Ratto nello Stivale",
+      "livello": 3,
+      "proprietario": "Belette Depaer (Bretone)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Vestiti Sontuosi di Virla",
+      "livello": 4,
+      "proprietario": "Virla Vantante (Imperiale)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Precisione Elfica",
+      "livello": 7,
+      "proprietario": "Lleril Morvayn (Dunmer)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Affari e Affari",
+      "livello": 7,
+      "proprietario": "Elenwen Viridinindiril (Alto Elfo)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Dalla Strega Bretone",
+      "livello": 4,
+      "proprietario": "Orinara Pietrossa (Bretone)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Sacchi, Farina e Coltelli",
+      "livello": 9,
+      "proprietario": "Cassius Argilla (Imperiale)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "La Daga Furente",
+      "livello": 9,
+      "proprietario": "Kurzak gro-Gunnar (Orco)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Gli Armamenti di Agnar",
+      "livello": 7,
+      "proprietario": "Agnar Dosulfuro (Nord)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Pozioni e Miscele",
+      "livello": 5,
+      "proprietario": "Idesa de' Sadano (Dunmer)"
+    }
+  ],
+  "Città Imperiale - Talos Plaza": [
+    {
+      "tipo": "Generale",
+      "nome": "Gli Affari di Aringoth",
+      "livello": 5,
+      "proprietario": "Aringoth (Bosmer)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Armature Orchesche",
+      "livello": 7,
+      "proprietario": "Yatul gro-Kharz (Orco)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Pozioni fini di Phinis",
+      "livello": 9,
+      "proprietario": "Phinis Gestor (Altmer)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Dormitorio Pubblico",
+      "livello": 2,
+      "proprietario": "Serena Oratus (Imperiale)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "La Taverniera Argoniana",
+      "livello": 5,
+      "proprietario": "Gwid Rei (Argoniano)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Armi da Maestro",
+      "livello": 9,
+      "proprietario": "Zaria Warmsand (Redguard)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Stoffe e Ricami di Muiri",
+      "livello": 4,
+      "proprietario": "Muiri Ilanril (Bretone)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Eccellenze Telvanni",
+      "livello": 8,
+      "proprietario": "Eno Diniveth (Dunmer)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Re e Regine",
+      "livello": 9,
+      "proprietario": "Talib Cervo Marrone (Bretone)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Ferri di Cavallo",
+      "livello": 3,
+      "proprietario": "Borgakh Steel-Heart (Orco)"
+    }
+  ],
+  "Città Imperiale - Tempio": [
+    {
+      "tipo": "Taverna",
+      "nome": "La Ciotola Silente",
+      "livello": 5,
+      "proprietario": "Giulia Nero (Imperiale)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Il Respiro di Akatosh",
+      "livello": 8,
+      "proprietario": "Julieta Caevir (Imperiale)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Soluzioni da Bere",
+      "livello": 5,
+      "proprietario": "Angeline Morrard (Bretone)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Le Offerte dei Nove",
+      "livello": 5,
+      "proprietario": "Malborn Arror (Bosmer)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Il Manto di Mara",
+      "livello": 4,
+      "proprietario": "Endarie Elunnirr (Alto Elfo)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Il Necessario del Pellegrino",
+      "livello": 3,
+      "proprietario": "Malborn Arror (Bosmer)"
+    }
+  ],
+  "Città Imperiale - Arena": [
+    {
+      "tipo": "Alchimista",
+      "nome": "Spirito di Battaglia",
+      "livello": 6,
+      "proprietario": "Pierre Lechand (Bretone)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "La Pausa del Combattente",
+      "livello": 5,
+      "proprietario": "Ren Ei (Argoniano)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Ripara e Distruggi",
+      "livello": 6,
+      "proprietario": "Ulric Nero Acciaio (Nord)"
+    }
+  ],
+  "Città Imperiale - Giardino Elfico": [
+    {
+      "tipo": "Alchimista",
+      "nome": "Il Filtro Eterno",
+      "livello": 8,
+      "proprietario": "Selenil Indoril (Dunmer)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Il Potere Altmer",
+      "livello": 8,
+      "proprietario": "Nirya Melninil (Altmer)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "La Sosta degli Ospiti",
+      "livello": 7,
+      "proprietario": "Antonius Ercolanius (Imperiale)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Merci di Tamriel",
+      "livello": 8,
+      "proprietario": "Addar Gutto (Redguard)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Il Sarto",
+      "livello": 8,
+      "proprietario": "Telriian Lagoblu (Bosmer)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "La Freccia di Faldar",
+      "livello": 8,
+      "proprietario": "Faldar Redoran (Dunmer)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Incanti di Mundus",
+      "livello": 7,
+      "proprietario": "Alexandra Felice (Imperiale)"
+    }
+  ],
+  "Città Imperiale - Università Arcana": [
+    {
+      "tipo": "Alchimista",
+      "nome": "Alchimista dell'Università",
+      "livello": 9,
+      "proprietario": "Andreas Decimo (Imperiale)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Incantatore dell'Università",
+      "livello": 9,
+      "proprietario": "Antoine Deleguerre (Bretone)"
+    }
+  ],
+ "Città Imperiale - Porto": [
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "La Via della Seta",
+      "livello": 7,
+      "proprietario": "Ma'jhad Keshra (Khajiit)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "La Nave a Terra",
+      "livello": 3,
+      "proprietario": "Gurda il Sporco (Nord)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Carpenteria e Incudine",
+      "livello": 7,
+      "proprietario": "Glover Mallory (Bretone)"
+    },
+    {
+      "tipo": "Contenitori",
+      "nome": "Bauli e Catene",
+      "livello": 6,
+      "proprietario": "Asgeir Snow-Shod (Nord)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Il Magazzino di Grelka",
+      "livello": 7,
+      "proprietario": "Grelka (Nord)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Cotone e Lana",
+      "livello": 6,
+      "proprietario": "Salta-I-Dossi (Argoniano)"
+    }
+  ],
+  "Bravil": [
+    {
+      "tipo": "Taverna",
+      "nome": "La Sala del Conte",
+      "livello": 7,
+      "proprietario": "Bruno Dento (Imperiale)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Ferro di Acqua Nera",
+      "livello": 5,
+      "proprietario": "Borba gra-Uzgash (Orco)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "La Fonte Magica",
+      "livello": 5,
+      "proprietario": "Daquert Mydret (Bretone)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Oltre la Melma",
+      "livello": 6,
+      "proprietario": "Honditar (Bosmer)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Gli Affari di Gogan",
+      "livello": 6,
+      "proprietario": "Gogan Goldeye (Redguard)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Il Paradosso dell Arciere",
+      "livello": 8,
+      "proprietario": "Grazia Riot (Imperiale)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "La Casa di Solitude",
+      "livello": 4,
+      "proprietario": "Thorinor (Nord)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Affari e Affari",
+      "livello": 3,
+      "proprietario": "Adelaide Oldbridge (Imperiale)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Armi per il Guerriero",
+      "livello": 4,
+      "proprietario": "Sandor Scheletro Nero (Imperiale)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Scudi e Armature",
+      "livello": 5,
+      "proprietario": "Varnado Scudodifero (Imperiale)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "La Freccia Nera",
+      "livello": 3,
+      "proprietario": "Berenil (Bosmer)"
+    },
+    {
+      "tipo": "Contenitori",
+      "nome": "Il Portaspada",
+      "livello": 5,
+      "proprietario": "Deewana (Argoniano)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Le Stoffe della Signora",
+      "livello": 4,
+      "proprietario": "Alessia Loros (Imperiale)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "La Botola del Pozzo",
+      "livello": 3,
+      "proprietario": "Nordinor (Altmer)"
+    }
+  ],
+"Anvil": [
+    {
+      "tipo": "Generale",
+      "nome": "Tesori di Torbar",
+      "livello": 8,
+      "proprietario": "Torbar gro-Luruk (Orco)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Eroi d'Acciaio",
+      "livello": 7,
+      "proprietario": "Yngvar Martello (Nord)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Ancora Saltuaria",
+      "livello": 6,
+      "proprietario": "Azara (Redguard)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Amuleto Nero",
+      "livello": 7,
+      "proprietario": "Dirillan (Altmer)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Sete da Ovest",
+      "livello": 8,
+      "proprietario": "Marvus Perennius (Imperiale)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Fiale di Falanu",
+      "livello": 5,
+      "proprietario": "Falanu Rynvir (Dunmer)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Occhio degli Orchi",
+      "livello": 8,
+      "proprietario": "Mogburz gro-Urgol (Orco)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "La Mazza Rossa",
+      "livello": 5,
+      "proprietario": "Dungo (Redguard)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Tutto per la Caccia",
+      "livello": 4,
+      "proprietario": "Ramilie Nursinis (Bretone)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Sottobordo",
+      "livello": 4,
+      "proprietario": "Akabar (Redguard)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Il Cuscino di Piume",
+      "livello": 4,
+      "proprietario": "Nurelion Embervoil (Altmer)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Sartoria di Severa",
+      "livello": 3,
+      "proprietario": "Severa Gratia (Imperiale)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Venustiano",
+      "livello": 8,
+      "proprietario": "Venustiano Tarquitio (Imperiale)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Gli Strumenti di Danel",
+      "livello": 4,
+      "proprietario": "Danel Telleno (Altmer)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Il Mestiere di Berjot's",
+      "livello": 3,
+      "proprietario": "Berjot Enmort (Nord)"
+    }
+  ],
+  "Leyawiin": [
+    {
+      "tipo": "Generale",
+      "nome": "Il Bazar di Bael",
+      "livello": 5,
+      "proprietario": "Bael (Nord)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Incantesimi delle Paludi",
+      "livello": 5,
+      "proprietario": "Meejapa (Argoniano)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Mura Infrante",
+      "livello": 5,
+      "proprietario": "Ja Naari (Argoniano)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Rifugio del Lungofiume",
+      "livello": 3,
+      "proprietario": "Zawraqi (Khajiit)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "La Piastra Fusa",
+      "livello": 5,
+      "proprietario": "Aedesius Nenoria (Imperiale)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Stoffe di Leyawiin",
+      "livello": 4,
+      "proprietario": "Cisi Riviere (Bretone)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "La Forgia di Forge",
+      "livello": 7,
+      "proprietario": "Karg Gro Rugul (Orco)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Arcieri di Acquaperla",
+      "livello": 5,
+      "proprietario": "Niros Indalor (Dunmer)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Merci di Mare",
+      "livello": 3,
+      "proprietario": "K'sharr (Khajiit)"
+    },
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "La Carovana Nube Bianca",
+      "livello": 7,
+      "proprietario": "Ra'Virr (Khajiit)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Punta e Lama",
+      "livello": 5,
+      "proprietario": "Gunder (Nord)"
+    },
+    {
+      "tipo": "Contenitori",
+      "nome": "Scatole Scarlatte",
+      "livello": 5,
+      "proprietario": "Tul (Argoniano)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Fuoco della Torcia",
+      "livello": 4,
+      "proprietario": "Isolde Giner (Bretone)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Il Falco Senza Piume",
+      "livello": 6,
+      "proprietario": "Ana'tahar (Khajiit)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Raso e Lana",
+      "livello": 7,
+      "proprietario": "Talassa (Redguard)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Artigiani del Metallo",
+      "livello": 8,
+      "proprietario": "Genus Furer (Imperiale)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Compagnia di Leyawiin",
+      "livello": 7,
+      "proprietario": "Erlina Furer (Imperiale)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Piccola Bottega Argoniana",
+      "livello": 9,
+      "proprietario": "Ja'Zeera (Argoniano)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Lo Sguardo di Stendarr",
+      "livello": 7,
+      "proprietario": "Ennoc Naziano (Imperiale)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Scudi ed Elmi",
+      "livello": 7,
+      "proprietario": "Brag gro-Bharg (Orco)"
+    }
+  ],
+"Rimmen": [
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Gioielli di Marobar",
+      "livello": 6,
+      "proprietario": "Marobar al-Aswad (Redguard)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Tessuti del Deserto",
+      "livello": 4,
+      "proprietario": "S'vari (Khajiit)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Lame di Rimmen",
+      "livello": 8,
+      "proprietario": "Z'vaar (Khajiit)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Antro del Predatore",
+      "livello": 5,
+      "proprietario": "Dro'zakar (Khajiit)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Erbe delle Oasi",
+      "livello": 4,
+      "proprietario": "Dana Undi (Redguard)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Artigli e Brocche",
+      "livello": 3,
+      "proprietario": "J'baasha (Khajiit)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Armaioli Imperiali",
+      "livello": 7,
+      "proprietario": "Lucas Vero (Imperiale)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Oggetti da Viaggio",
+      "livello": 5,
+      "proprietario": "Ra'jirr (Khajiit)"
+    },
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "Merci Khajiit",
+      "livello": 5,
+      "proprietario": "R'jattar (Khajiit)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Seta del Sud",
+      "livello": 8,
+      "proprietario": "Tedelen (Altmer)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Orefici di Tamriel",
+      "livello": 4,
+      "proprietario": "Caius Gen (Imperiale)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Lame Nascoste",
+      "livello": 5,
+      "proprietario": "Divin Teherani (Dunmer)"
+    },
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "Mercanti Onesti",
+      "livello": 9,
+      "proprietario": "Zampa Rapida (Khajiit)"
+    },
+    {
+      "tipo": "Contenitori",
+      "nome": "La Sacca Infinita",
+      "livello": 7,
+      "proprietario": "Ri'saad (Khajiit)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "La Birra Nera",
+      "livello": 6,
+      "proprietario": "Ahndriella (Elfa dei Boschi)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Gioielli di Taryeen",
+      "livello": 7,
+      "proprietario": "Taryeen Silverwill (Altmer)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Il Cespuglio di Vita",
+      "livello": 7,
+      "proprietario": "Nirnasha (Khajiit)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Un Sacco e Un Ago",
+      "livello": 2,
+      "proprietario": "Zabani (Khajiit)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Guscio di Drago",
+      "livello": 8,
+      "proprietario": "Kil'dashar (Khajiit)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Dardi e Frecce",
+      "livello": 3,
+      "proprietario": "Ronthil (Bretone)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Il Martello Danzante",
+      "livello": 4,
+      "proprietario": "Alhekari (Khajiit)"
+    },
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "Tende Piene",
+      "livello": 8,
+      "proprietario": "Da'Saari (Khajiit)"
+    },
+    {
+      "tipo": "Contenitori",
+      "nome": "Zaini di Rimmen",
+      "livello": 3,
+      "proprietario": "R'salmo (Khajiit)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Spine di Ferro",
+      "livello": 3,
+      "proprietario": "Hod (Nord)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Gli Ospiti del Palazzo",
+      "livello": 8,
+      "proprietario": "Nemi-Baka (Khajiit)"
+    }
+  ],
+  "Skingrad": [
+    {
+      "tipo": "Fabbro",
+      "nome": "Il Ferro di Cavallo",
+      "livello": 4,
+      "proprietario": "Oric Sangueblu (Nord)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Oli di Nirn",
+      "livello": 4,
+      "proprietario": "Angaia Ormyl (Altmer)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Abiti della Contessa",
+      "livello": 7,
+      "proprietario": "Irma Irmavir (Bretone)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Di Tutto",
+      "livello": 3,
+      "proprietario": "Jiub (Dunmer)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "La Bevuta Maledetta",
+      "livello": 3,
+      "proprietario": "Maria Elena (Imperiale)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Piume del Falco",
+      "livello": 5,
+      "proprietario": "Ra'Zhar (Khajiit)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "L'Elmo di Pietra",
+      "livello": 5,
+      "proprietario": "Mazoga gra Bubass (Orco)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Forge del Destino",
+      "livello": 6,
+      "proprietario": "Lucius Nero (Imperiale)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Fiamma Rossa",
+      "livello": 5,
+      "proprietario": "Arielle Stefan (Bretone)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Il Cavallo Zoppo",
+      "livello": 5,
+      "proprietario": "Rynfir Selas (Bosmer)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Caprioli e Roccella",
+      "livello": 5,
+      "proprietario": "Elena Giubilera (Imperiale)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Da Illia",
+      "livello": 5,
+      "proprietario": "Illia Brom (Imperiale)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "La Piuma Perduta",
+      "livello": 6,
+      "proprietario": "Giulia Veracaluce (Imperiale)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Importazioni Coloviane",
+      "livello": 8,
+      "proprietario": "Carbo di Bucale (Nord)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "La Vecchia Maniera",
+      "livello": 3,
+      "proprietario": "Tovisa Senus (Imperiale)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Armature dei Campi dorati",
+      "livello": 7,
+      "proprietario": "Geddur (Redguard)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Fiale del Loto",
+      "livello": 7,
+      "proprietario": "Virea Vesteveloce (Imperiale)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Panoramico",
+      "livello": 7,
+      "proprietario": "Bolothor (Bretone)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Luci e Gemme",
+      "livello": 5,
+      "proprietario": "Erandur Thelas (Dunmer)"
+    },
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "Il Percorso Veloce",
+      "livello": 5,
+      "proprietario": "Skajaa (Khajiit)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Sinderion",
+      "livello": 10,
+      "proprietario": "Sinderion (Altmer)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Picche di High Rock",
+      "livello": 9,
+      "proprietario": "Ginevra Torre Alta (Bretone)"
+    }
+  ],
+  "Kvatch": [
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Incudine di Stendarr",
+      "livello": 7,
+      "proprietario": "Bertan Laminaspada (Nord)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Frecce di Akavir",
+      "livello": 6,
+      "proprietario": "Tervesel Geenleaf (Bosmer)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Arcano e Divino",
+      "livello": 5,
+      "proprietario": "Vanus Galerion (Imperiale)"
+    },
+    {
+      "tipo": "Contenitori",
+      "nome": "Pelli da Viaggio",
+      "livello": 6,
+      "proprietario": "Tullius Cicero (Imperiale)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Il Mercante di Kvatch",
+      "livello": 7,
+      "proprietario": "Tullius Il Bianco (Imperiale)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Vittoria e sconfitta",
+      "livello": 5,
+      "proprietario": "Domitilla Freagi (Imperiale)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Elisir di Julianos",
+      "livello": 5,
+      "proprietario": "Dyrith Adril (Dunmer)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Il Lungovia",
+      "livello": 3,
+      "proprietario": "Adva Illin (Dunmer)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Vestiti e Tessuti",
+      "livello": 4,
+      "proprietario": "Beatrice Standish (Imperiale)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Il Soldato Zoppo",
+      "livello": 6,
+      "proprietario": "Urik Casadar (Nord)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Lo Stop",
+      "livello": 4,
+      "proprietario": "Cassian Diocle (Bretone)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "La Stretta Incudine",
+      "livello": 7,
+      "proprietario": "Klimmek (Nord)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Il Ferro di Cavallo",
+      "livello": 3,
+      "proprietario": "Antonia Beon (Imperiale)"
+    },
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "Le Sette Sorelle",
+      "livello": 5,
+      "proprietario": "Kharjo (Khajiit)"
+    }
+  ],
+  "Riverhold": [
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "Carovana delle Sorelle",
+      "livello": 7,
+      "proprietario": "Jharjo (Khajiit)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Pozioni di MoonSugar",
+      "livello": 6,
+      "proprietario": "Shazanna (Khajiit)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Argento Puro",
+      "livello": 5,
+      "proprietario": "Khad'jin (Khajiit)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Tana del Gatto",
+      "livello": 4,
+      "proprietario": "J'darr (Khajiit)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Segni delle Stelle",
+      "livello": 6,
+      "proprietario": "M'raaj-Dar (Khajiit)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "La Borsa Leggera",
+      "livello": 4,
+      "proprietario": "Katasha (Khajiit)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Il Bazar di Bahliz",
+      "livello": 7,
+      "proprietario": "Bahliz (Khajiit)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Il Vento e la Spada",
+      "livello": 5,
+      "proprietario": "Ra'khaj (Khajiit)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Scudi E Corazze",
+      "livello": 5,
+      "proprietario": "S'Krivva (Khajiit)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Acciaio Redguard",
+      "livello": 8,
+      "proprietario": "Gadab (Redguard)"
+    },
+    {
+      "tipo": "Contenitori",
+      "nome": "I Bauletti di Baandari",
+      "livello": 6,
+      "proprietario": "Baandari (Khajiit)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Cantina di Khenarthi",
+      "livello": 7,
+      "proprietario": "R'vanni (Khajiit)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Bazar Sotterraneo",
+      "livello": 4,
+      "proprietario": "Shazah (Khajiit)"
+    }
+  ]
+}

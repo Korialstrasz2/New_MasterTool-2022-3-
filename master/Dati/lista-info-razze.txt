@@ -1,0 +1,90 @@
+
+- Gli unici bonus calcolati automaticamente sono quelli caratteriscica -
+Bosmer
+- 2 RES - 1 VEL  /  + 2 AGI + 1 SAG + 1 FORT
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
+immunita' alle malattie  /  Calma un animale aggressivo entro 9 metri
+Sottorazza, raddoppiano a lv 5, 10..
+Foreste +1 con. natura
+Colline +1 PA
+
+Dunmer
+- 2 FORT - 1 PERS  /  + 2 INT + 2 SAG
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
++5 res fuoco  /  Evoca fantasma di lv-4
+Sottorazza, raddoppiano a lv 5, 10..
+Retaggio mago +8 mana
+Retaggio guerriero +8 pf
+
+Orsimer
+- 2 INT - 2 PERS  /  + 2 FORZ + 2 RES + 1 SAG
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
++1 tier dmg ogni 3 lv  /  Rigenera 25% dei pf
+Sottorazza, raddoppiano a lv 5, 10..
+Selvaggio +2 attacco
+Della tribu +2 difesa
+
+Altmer
+- 1 SAG - 1 FORZ - 2 RES  /  + 2 INT + 2 CONC + 1 VEL
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
++1 potere a livello  /  +7 potere su un incantesimo
+Sottorazza, raddoppiano a lv 5, 10..
+Sangue nobile +1 CONC
+Plebeo +1 RES
+
+Imperiale
+- 1 VEL - 1 SAG -1FORZ  /  + 2 PERS + 1 FORT + 1 CONC
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
++2 pe ogni lv up  /  Calma un umanoide aggressivo entro 9 metri
+Sottorazza, raddoppiano a lv 5, 10..
+Di citta' Conosci 1 lingua
+Di campagna +1 FORZ
+
+Bretone
+-1 FORZ - 2 RES - 1 FORT  /  + 1 INT + 2 CONC + 1 PERS + 1 SAG
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
+Bonus mana = lv*2,5  /  1 dispel
+Sottorazza, raddoppiano a lv 5, 10..
+Cavaliere 1 reroll / combat
+Mercante +1 tiri contrattazione
+
+
+Redguard
+-2 SAG - 1 CONC  /  +2 FORZ +1 VEL + 1 FORT
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
+Bonus pf = lv*2  /  Per 1 turno +2 modificatore generale
+Sottorazza, raddoppiano a lv 5, 10..
+Deserto +1 sopravvivenza
+Oasi +1 RES
+
+Argoniano
+-1 CONC - 1 INT - 1 PERS  /  + 2 FORT + 2 VEL
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
+Respira in acqua  /  al costo di 5 en rigenera lv*3 pf, lv*3 mana e 5 pa
+Sottorazza, raddoppiano a lv 5, 10..
+Fortunato 1 rerol al giorno fuori dal combat
+Paludoso immunita' alle malattie
+
+Khajiit
+- 2 RES - 1 PERS  /  + 1 INT + 2 AGI +1 FORZ
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
+Night Eye  /  1 reroll su furtivita' e 1 su rapidita di mano
+Sottorazza, raddoppiano a lv 5, 10..
+Tribale +1 FORT
+Carovana +1 rapidita di mano
+
+Nord
+-1 VEL - 1 AGI - 1 PERS  /  +2 RES + 2 FORT
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
++5 res gelo  /  Lv/2 + 1 en free a turno per 2 turni
+Sottorazza, raddoppiano a lv 5, 10..
+Tradizionale +1 FORZ
+Sud +1 PERS
+
+Falmer
+-1 VEL - 2 RES  /  +2 SAG + 2 AGI
+POW PASSIVO / POW ATTIVO (1 al giorno, 0 pa)
++1 percezione  /  Rigenera 25% mana
+Sottorazza, raddoppiano a lv 5, 10..
+Caverna Night Eye
+Rovina +1 Ingegneria

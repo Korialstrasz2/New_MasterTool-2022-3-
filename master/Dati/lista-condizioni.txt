@@ -1,0 +1,25 @@
+(1) MIN Scosso: -3 atk 10 % sbagliare cast.
+(2) MIN Impaurito: +2 def -6 atk, 20% sbagliare cast.
+(3) MIN Sanguinante: -1pf/t. per 5t minimo 0pf.
+(4) MIN Abbagliato/ Penombra: puoi attaccare solo entro 1m, oltre, -20% miss a casella.
+(5) MIN Nauseato: spendi il doppio di en.
+(6) MIN Rallentato: dimezza i pa disponibili.
+(7) MED Terrorizzato: fuggi, se non puoi combatti usando tutto quello che hai.
+(8) MED Accecato/ Buio: 50% di fallire colpi o cast entro 1m. Oltre 100%.
+(9) MED Muto: non puoi parlare, dare comandi agli animali etc...
+(10) MED Stordito: 50% di fallire qualsiasi azione non di movimento.
+(11) MAG Paralizzato: azzera i pa disponibili.
+(12) MAG Comandato: fa quello che decide l'autore dell'incantesimo.
+(13) MAG Frenetico: attacca con tutte le risorse il pg o npc piu' vicino.
+(14) MAG Mindscaped.
+
+(1) Atassia: Non fai frasi di senso compiuto.
+(2) Brividi: 15% di fallire azioni.
+(3) Vermi infetti: 1 stanchezza ogni 12 ore.
+(4) Articolazioni di Roccia: -1 mod. gen.
+(5) Articolazioni Infernali: -2 mod. gen.
+(6) Demenza: Ogni turno, se fallisci tiro conc. 5, non fai azione.
+(7) Febbre Pesante: raddoppia il costo in energia.
+(8) Sfuggimente: -4 int e conc.
+(9) Tick Giallo: -1 a tutte le abilità.
+(10) Spasmi: -1 a tutti i tiri.

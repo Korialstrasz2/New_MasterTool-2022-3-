@@ -1,0 +1,41 @@
+METEO
+tira un d4: se 1 o 2 il tempo non
+cambia. se 3 o 4, tira un d20
+No effetto su non morti, elementali
+e macchine (tranne movimento)
+
+
+Soleggiato (1-10)
+No cambiamenti
+
+Pioggia(11-14)
+Costo movimento in combat +25%
+Attacco -3
+
+Grande Pioggia(15-16)
+Costo movimento in combat +50%
+Attacco -5
+Ogni casella dopo la prima possibilita di
+mancare atk o cast a distanza +10%
+danno da fuoco -25%
+danno elettro +25%
+costo movimento in viaggio +50%
+
+Nebbia(17-18)
+Ogni casella dopo la prima possibilita di
+mancare atk o cast a distanza +20%
+danno da gelo +25%
+
+Temporale(19)
+Attacco -7
+Costo movimento in combat +50%
+Ogni casella dopo la prima possibilita di
+mancare atk o cast a distanza +20%
+costo movimento in viaggio +100%
+
+Tempesta(20)
+Attacco -10
+Costo movimento in combat +100%
+Ogni casella dopo la prima possibilita di
+mancare atk o cast a distanza +33%
+costo movimento in viaggio +200%

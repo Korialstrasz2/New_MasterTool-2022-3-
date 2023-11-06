@@ -1,0 +1,5 @@
+["maninude",
+"natura1",
+"natura2",
+"natura3",
+"bastonemagico"]
