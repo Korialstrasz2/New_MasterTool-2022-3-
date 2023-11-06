@@ -1,0 +1,125 @@
+{
+  "Città Imperiale, Mercato": [
+    {
+      "tipo": "Fabbro",
+      "nome": "Lame di Belrand",
+      "livello": 7,
+      "proprietario": "Belrand Glorhart (Nord)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Acqua Brillante",
+      "livello": 7,
+      "proprietario": "Neririen Elethir (Altmer)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Tessuti di Serenity",
+      "livello": 7,
+      "proprietario": "Serenity Luauber (Bretone)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Tutto da Uthgerd",
+      "livello": 3,
+      "proprietario": "Uthgerd il Potente (Nord)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Il riposo del Viaggiatore",
+      "livello": 5,
+      "proprietario": "Firgoth Verderadice (Bosmer)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Frecce e Archi",
+      "livello": 5,
+      "proprietario": "Jidatt'r (Khajiit)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Le Brutte Maniere",
+      "livello": 7,
+      "proprietario": "Aurelius Nero (Imperiale)"
+    },
+    {
+      "tipo": "Carovana Khajiit",
+      "nome": "Il Vascello di Sabbia",
+      "livello": 6,
+      "proprietario": "R'aiq il Mezzocielo (Khajiit)"
+    },
+    {
+      "tipo": "Fabbro",
+      "nome": "Il metallo Rosso",
+      "livello": 7,
+      "proprietario": "Vori Rugginoso (Nord)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "Creazioni di Ciretose",
+      "livello": 6,
+      "proprietario": "Ciretose Piagaumida (Argoniano)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Angolo Magico",
+      "livello": 7,
+      "proprietario": "Hanriel Lacrimarapida (Alto Elfo)"
+    },
+    {
+      "tipo": "Taverna",
+      "nome": "Il Ratto nello Stivale",
+      "livello": 2,
+      "proprietario": "Belette Depaer (Bretone)"
+    },
+    {
+      "tipo": "Abbigliamento",
+      "nome": "Vestiti Sontuosi di Virla",
+      "livello": 4,
+      "proprietario": "Virla Vantante (Imperiale)"
+    },
+    {
+      "tipo": "Arcieria",
+      "nome": "Precisione Elfica",
+      "livello": 6,
+      "proprietario": "Lleril Morvayn (Dunmer)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Affari e Affari",
+      "livello": 6,
+      "proprietario": "Elenwen Viridinindiril (Alto Elfo)"
+    },
+    {
+      "tipo": "Oggetti Magici",
+      "nome": "Dalla Strega Bretone",
+      "livello": 3,
+      "proprietario": "Orinara Pietrossa (Bretone)"
+    },
+    {
+      "tipo": "Generale",
+      "nome": "Sacchi, Farina e Coltelli",
+      "livello": 8,
+      "proprietario": "Cassius Argilla (Imperiale)"
+    },
+    {
+      "tipo": "Fabbricante di Armi",
+      "nome": "La Daga Furente",
+      "livello": 8,
+      "proprietario": "Kurzak gro-Gunnar (Orco)"
+    },
+    {
+      "tipo": "Armaiolo",
+      "nome": "Gli Armamenti di Agnar",
+      "livello": 6,
+      "proprietario": "Agnar Dosulfuro (Nord)"
+    },
+    {
+      "tipo": "Alchimista",
+      "nome": "Pozioni e Miscele",
+      "livello": 4,
+      "proprietario": "Idesa de' Sadano (Dunmer)"
+    }
+  ],
+
+}
